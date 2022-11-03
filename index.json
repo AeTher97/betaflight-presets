@@ -132,10 +132,70 @@
     }
   },
   "uniqueValues": {
-    "firmware_version": [],
-    "category": [],
-    "author": [],
-    "keywords": []
+    "firmware_version": [
+      "4.3"
+    ],
+    "category": [
+      "OSD"
+    ],
+    "author": [
+      "AeTher97",
+      "Betaflight"
+    ],
+    "keywords": [
+      "analog",
+      "defaults",
+      "OSD",
+      "reset"
+    ]
   },
-  "presets": []
+  "presets": [
+    {
+      "fullPath": "presets/4.3/osd/AeTher97_Freestyle.txt",
+      "hash": "5003b64a30efe88979950fc7aabfb26e1278431bf5f7fc8ce3c94a9404034230",
+      "title": "AeTher97 Freestyle",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "analog"
+      ],
+      "author": "AeTher97",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/AeTher97_Freestyle_GPS.txt",
+      "hash": "89d31966290551c24de46891876f09f8a1b48ba9f22c089768ff6fd673109e15",
+      "title": "AeTher97 Freestyle GPS",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "analog"
+      ],
+      "author": "AeTher97",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/defaults.txt",
+      "hash": "d51f491896466281eec78319b9631abe88266b8b62eaa829068240d7dba018f2",
+      "title": "Default 4.3 OSD settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "OSD"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    }
+  ]
 }
