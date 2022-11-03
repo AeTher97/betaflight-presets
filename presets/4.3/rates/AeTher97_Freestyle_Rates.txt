@@ -1,0 +1,24 @@
+#$ TITLE: AeTher97 Freestyle Rates
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: RATES
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: rates, freestyle
+#$ AUTHOR: AeTher97
+#$ DESCRIPTION: AeTher97 freestyle rates
+#$ INCLUDE: presets/4.3/rates/defaults.txt
+
+rateprofile 0
+
+# rateprofile 0
+set thr_mid = 40
+set thr_expo = 30
+set rates_type = BETAFLIGHT
+set roll_rc_rate = 126
+set pitch_rc_rate = 126
+set yaw_rc_rate = 126
+set roll_expo = 10
+set pitch_expo = 10
+set yaw_expo = 5
+set roll_srate = 72
+set pitch_srate = 72
+set yaw_srate = 72
