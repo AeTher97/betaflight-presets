@@ -137,6 +137,7 @@
       "4.4"
     ],
     "category": [
+      "MODES",
       "OSD",
       "RATES"
     ],
@@ -146,15 +147,62 @@
     ],
     "keywords": [
       "actual",
+      "adjustments",
       "analog",
+      "aux",
       "defaults",
       "freestyle",
+      "mode",
+      "modes",
       "OSD",
       "rates",
-      "reset"
+      "reset",
+      "switch"
     ]
   },
   "presets": [
+    {
+      "fullPath": "presets/4.3/modes/AeTher97_Modes_Standard.txt",
+      "hash": "569ae1c3517ac8db026541834380ba99ef009f3d880dd16e2e0ea44a03199cdc",
+      "title": "AeTher97 Modes Standard",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "defaults",
+        "reset",
+        "mode",
+        "modes",
+        "adjustments",
+        "aux",
+        "switch"
+      ],
+      "author": "AeTher97",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/modes/defaults.txt",
+      "hash": "0e520b22300b1bdc1bf1b1972d399ae0f030a2e9c7248e4b0c58879febeae481",
+      "title": "Default 4.3 Modes and Adjustment settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "mode",
+        "modes",
+        "adjustments",
+        "aux",
+        "switch"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
     {
       "fullPath": "presets/4.3/osd/AeTher97_Freestyle.txt",
       "hash": "5003b64a30efe88979950fc7aabfb26e1278431bf5f7fc8ce3c94a9404034230",
