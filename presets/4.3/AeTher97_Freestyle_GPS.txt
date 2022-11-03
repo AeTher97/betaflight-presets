@@ -1,0 +1,39 @@
+#$ TITLE: AeTher97 Freestyle GPS
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OSD
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: analog
+#$ AUTHOR: AeTher97
+
+#$ PARSER: MARKED
+
+#$ DESCRIPTION: Standard freestyle OSD with GPS elements
+#$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/211
+#$ INCLUDE: presets/4.3/osd/defaults.txt
+
+set osd_warn_core_temp = OFF
+set osd_warn_rssi = ON
+set osd_warn_link_quality = ON
+set osd_warn_over_cap = ON
+set osd_rssi_pos = 6200
+set osd_link_quality_pos = 6168
+set osd_rssi_dbm_pos = 299
+set osd_tim_2_pos = 432
+set osd_flymode_pos = 6176
+set osd_throttle_pos = 245
+set osd_vtx_channel_pos = 2059
+set osd_crosshairs_pos = 6413
+set osd_ah_sbar_pos = 2318
+set osd_ah_pos = 2190
+set osd_current_pos = 2528
+set osd_mah_drawn_pos = 353
+set osd_craft_name_pos = 362
+set osd_gps_speed_pos = 2547
+set osd_gps_sats_pos = 2553
+set osd_home_dir_pos = 6606
+set osd_home_dist_pos = 6605
+set osd_altitude_pos = 2536
+set osd_power_pos = 388
+set osd_warnings_pos = 14634
+set osd_avg_cell_voltage_pos = 6144
+set osd_disarmed_pos = 6475
