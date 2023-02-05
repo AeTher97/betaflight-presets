@@ -1,11 +1,11 @@
 #$ TITLE: AeTher97 Standard modes
-#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: MODES
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: defaults, reset, mode, modes, adjustments, aux, switch
 #$ AUTHOR: AeTher97
 #$ DESCRIPTION: Standard modes preset with ELRS
-#$ INCLUDE: presets/4.3/modes/defaults.txt
+#$ INCLUDE: presets/4.4/modes/defaults.txt
 
 # aux
 aux 0 0 0 1700 2100 0 0
